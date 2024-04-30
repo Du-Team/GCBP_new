@@ -1,7 +1,7 @@
 clear;
 close all;
-src = './Datasets/';
-name = '6_control_600_60_l';
+src = '';
+name = '';
 load([src,name]);
 
 % Parameters
