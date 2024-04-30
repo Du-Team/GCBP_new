@@ -1,4 +1,4 @@
-# GCDB
+# GCDB #
 A Python implementation of "Grid-Based Clustering Using Boundary Detection"
 
 ## introduction
